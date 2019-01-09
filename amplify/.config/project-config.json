@@ -1,0 +1,20 @@
+{
+    "projectName": "FFTR",
+    "projectPath": "/home/ec2-user/environment/fantasy-football-text-reader",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "/home/ec2-user/.nvm/versions/node/v11.6.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react-native",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "build",
+            "BuildCommand": "npm run biuld",
+            "StartCommand": "npm run start"
+        }
+    },
+    "providers": {
+        "awscloudformation": "/home/ec2-user/.nvm/versions/node/v11.6.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}

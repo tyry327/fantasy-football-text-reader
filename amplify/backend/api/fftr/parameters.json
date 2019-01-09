@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "fftr",
+    "schemaGraphql": "s3://a-20190109202058-deployment/amplify-appsync-files/schema.graphql.1547065558450",
+    "ResolverBucket": "a-20190109202058-deployment",
+    "ResolverRootKey": "amplify-appsync-files",
+    "DeploymentTimestamp": "1547065558450"
+}
